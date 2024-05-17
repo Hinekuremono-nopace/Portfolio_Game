@@ -1,5 +1,8 @@
 パッケージ化したファイルのURL
-https://drive.google.com/drive/folders/10KA61-ZrR37ZSfBk1nVFQ5zIK1cJuJsr?usp=drive_link
+https://drive.google.com/file/d/1OqK9FjJNofjLZ3gBkqGexjZbslcEwrxJ/view?usp=sharing
 
 Unreal Engine 4　のプロジェクトファイルのURL
 https://drive.google.com/file/d/1SN0hd1F_iHq_CBLIvF_xmq-Z2rViEhjd/view?usp=sharing
+
+プレイ映像
+https://drive.google.com/file/d/1ckzVdHGTGxTi67ZkbsxabMjas2VOImEu/view?usp=sharing
